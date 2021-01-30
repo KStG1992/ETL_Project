@@ -1,3 +1,9 @@
+#csv files are too large to upload on GitHub
+airports.csv
+flights.csv
+#excluding password file connecting to postgres
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
