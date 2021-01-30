@@ -5,6 +5,7 @@ flights.csv
 config.py
 
 # Byte-compiled / optimized / DLL files
+api-key.py
 __pycache__/
 *.py[cod]
 *$py.class
