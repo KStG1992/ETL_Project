@@ -1,2 +1,2 @@
 # WorldWeatherOnline API Key
-wx_api_key = 'c2f168cf23884601ae922017212901'
+wx_api_key = '6f4c63d9ec5f4745a53172620213001'
