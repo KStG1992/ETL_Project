@@ -3,7 +3,7 @@ flights.csv
 #excluding password file connecting to postgres
 config.py
 #WorldWeatherOnline
-Historical_Wx/api_key.py
+api_key.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
