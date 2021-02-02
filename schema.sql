@@ -49,4 +49,26 @@ CREATE TABLE "Airports" (
         "iata_code"
      )
 );
-
+CREATE TABLE "historical_weather" (
+    
+    "Airport Code" varchar,
+    "Date" date,
+    "Time" int,
+    "Latitude" float,
+    "Longitude" float,
+    "Weather Description" varchar,
+    "Temperature (F)" int,
+    "Heat Index (F)" int,
+    "Wind Chill (F)" int,
+    "Dew Point (F)" int,
+    "Wind Speed (mph)" int,
+    "Wind Gusts (mph)" int,
+    "Wind Direction" varchar,
+    "Precipitation (in)" int,
+    "Humidity (%)" int,
+    "Visibility (mi)" int,
+    "Pressure (mb)" int,
+    "Cloud Coverage (%)" int,
+    "Snow Total (cm)" int
+    
+);
