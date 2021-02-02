@@ -5,7 +5,7 @@ config.py
 #WorldWeatherOnline
 api_key.py
 #Kayla's Postgres pass
-postgres_pass
+post_pass
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
