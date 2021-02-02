@@ -4,6 +4,8 @@ flights.csv
 config.py
 #WorldWeatherOnline
 api_key.py
+#Kayla's Postgres pass
+postgres_pass
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
