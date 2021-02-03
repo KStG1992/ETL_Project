@@ -3,7 +3,7 @@
 
 CREATE TABLE "Flights" (
     
-    "DATE" int   NOT NULL,
+    "DATE" date   NOT NULL,
     "DAY_OF_WEEK" int   NOT NULL,
     "AIRLINE" varchar   NOT NULL,
     "FLIGHT_NUMBER" int   NOT NULL,
